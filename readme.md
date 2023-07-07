@@ -1,5 +1,7 @@
 ## This repo is for the Learn project with gitlab and jenkins on docker container
 
+<img src="https://media.licdn.com/dms/image/C5112AQHQe7j52w2xOQ/article-cover_image-shrink_600_2000/0/1520084696641?e=2147483647&v=beta&t=HK9qC1_sodqEhJbPTEZXTFt0MJ8YJNS2mOMDZa9KZ74" width="100%">
+
 ### How to use this repo
 
 1. Clone the repo
