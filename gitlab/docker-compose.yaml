@@ -3,7 +3,7 @@ services:
   gitlab:
    container_name: gitlab
    image: gitlab/gitlab-ce:latest
-   restart: always
+   restart: on-failure
    hostname: gitlab.test
    environment:
       GITLAB_OMNIBUS_CONFIG: |

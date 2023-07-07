@@ -1,0 +1,8 @@
+# gitlab data
+
+gitlab/logs/*
+gitlab/data/*
+gitlab/config/*
+
+# jenkins data
+jenkins/home/*
